@@ -23,6 +23,9 @@
 ## Vscode on Etherscan
 - https://github.com/dethcrypto/dethcode 
 
+## EVM traces with Python
+- https://banteg.mirror.xyz/3dbuIlaHh30IPITWzfT1MFfSg6fxSssMqJ7TcjaWecM 
+
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

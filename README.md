@@ -2,10 +2,10 @@
 - https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k
 
 ## Transaction Visualization tools for hacks
-1) [https://misttrack.io/](https://misttrack.io/)
+1) [MistTrack](https://misttrack.io/)
 2) [https://phalcon.blocksec.com/?s=09](https://phalcon.blocksec.com/?s=09)
 3) [https://tx.eth.samczsun.com](https://tx.eth.samczsun.com/)
-4) tenderly.co
+4) https://tenderly.co/
 
 ## OffcierCIA On-chain Investigation Tools
 - ethtective.com 

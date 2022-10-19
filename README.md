@@ -17,6 +17,9 @@
 ## Tool for Storage visualization of Proxy contracts (To check for storage collision)
 - https://github.com/naddison36/sol2uml
 
+## Uniswap TWAP Oracle Price Manipulation Simulator
+- https://www.euler.finance/blog/uniswap-oracle-attack-simulator
+
 ## Metamorphic contracts detector
 - https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/
 

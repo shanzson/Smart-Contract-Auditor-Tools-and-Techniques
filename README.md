@@ -29,6 +29,9 @@
 ## EVM traces with Python
 - https://banteg.mirror.xyz/3dbuIlaHh30IPITWzfT1MFfSg6fxSssMqJ7TcjaWecM 
 
+## Tool to detect Out of Gas/Denial of Service
+- https://blog.pessimistic.io/gas-gauge-pressure-control-b1c86fd7cd?123 
+
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

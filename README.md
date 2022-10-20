@@ -50,7 +50,6 @@
 - https://bloxy.info/
 - https://github.com/naddison36/tx2uml
 - https://github.com/ApeWorX/evm-trace
-- https://github.com/dethcrypto/dethcode
 - https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2
 - https://app.unrekt.net/
 - https://revoke.cash/

@@ -32,6 +32,15 @@
 ## Tool to detect Out of Gas/Denial of Service
 - https://blog.pessimistic.io/gas-gauge-pressure-control-b1c86fd7cd?123 
 
+## List of Defi Hacks with Proof of Concept
+- https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee
+
+## Tool to extract ABI from Unverified contracts
+- https://github.com/shazow/whatsabi
+
+## Tool to get historical data from EVM chains
+- https://github.com/fei-protocol/checkthechain
+
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

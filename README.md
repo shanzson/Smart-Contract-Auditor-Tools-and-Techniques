@@ -41,6 +41,9 @@
 ## Tool to get historical data from EVM chains
 - https://github.com/fei-protocol/checkthechain
 
+## Immunefi Web3 Security library
+- https://github.com/immunefi-team/Web3-Security-Library 
+
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

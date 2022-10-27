@@ -81,3 +81,5 @@
 - Eth-Isabelle https://lnkd.in/dB_Mvz8p
 - SmartPulse https://lnkd.in/dmwEEPTY
 
+## Technique to handle "missing return" ERC20 tokens
+- https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca 

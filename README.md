@@ -60,26 +60,26 @@
 
 
 
-## Static analysis: 
+## Static analysis Tools: 
 
-- Oyente https://lnkd.in/dqZP3V3w
-- Mythril https://lnkd.in/dAjsXcWj
-- Osiris https://lnkd.in/dYFtk6SZ
-- Maian https://lnkd.in/dkkbub3H
-- TeEther https://lnkd.in/dWD_ZGMa
-- Sereum https://lnkd.in/dp4GRgDS
-- ContractFuzzer https://lnkd.in/did5cdkG
-- ILF https://lnkd.in/d3e_Rs7n
-- Slither https://lnkd.in/d7hur-55
-- Vandal https://lnkd.in/dZ-qmrEw
-- Madmax https://lnkd.in/dtcvTZdE
-- Ethir https://lnkd.in/dKGXDv3u
-- Smartcheck https://lnkd.in/dS6ThVGy
-- SaferSC https://lnkd.in/dim6waid
-- RecChecker https://lnkd.in/dKPZ2rHf
-- KEVM https://lnkd.in/dbqXZq3H
-- Eth-Isabelle https://lnkd.in/dB_Mvz8p
-- SmartPulse https://lnkd.in/dmwEEPTY
+* [Oyente](https://lnkd.in/dqZP3V3w)
+* [Mythril](https://lnkd.in/dAjsXcWj)
+* [Osiris](https://lnkd.in/dYFtk6SZ)
+* [Maian](https://lnkd.in/dkkbub3H)
+* [TeEther](https://lnkd.in/dWD_ZGMa)
+* [Sereum](https://lnkd.in/dp4GRgDS)
+* [ContractFuzzer](https://lnkd.in/did5cdkG)
+* [ILF](https://lnkd.in/d3e_Rs7n)
+* [Slither](https://lnkd.in/d7hur-55)
+* [Vandal](https://lnkd.in/dZ-qmrEw)
+* [Madmax](https://lnkd.in/dtcvTZdE)
+* [Ethir](https://lnkd.in/dKGXDv3u)
+* [Smartcheck](https://lnkd.in/dS6ThVGy)
+* [SaferSC](https://lnkd.in/dim6waid)
+* [RecChecker](https://lnkd.in/dKPZ2rHf)
+* [KEVM](https://lnkd.in/dbqXZq3H)
+* [Eth-Isabelle](https://lnkd.in/dB_Mvz8p)
+* [SmartPulse](https://lnkd.in/dmwEEPTY)
 
 ## Technique to handle "missing return" ERC20 tokens
 - https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca 
@@ -87,7 +87,6 @@
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
- 
 * [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
 
 * [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)

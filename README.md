@@ -1,3 +1,6 @@
+
+# Smart Contract Auditor Tools and Techniques
+
 ## How to become a Smart Contract Auditor
 - https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k
 

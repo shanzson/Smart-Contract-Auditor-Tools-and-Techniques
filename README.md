@@ -5,14 +5,14 @@
 - https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k
 
 ## Transaction Visualization tools for hacks
-1) [MistTrack](https://misttrack.io/)
-2) [Phalcon BlockSec](https://phalcon.blocksec.com/?s=09)
-3) [Tx eth samczsun](https://tx.eth.samczsun.com/)
-4) [Tenderly](https://tenderly.co/)
+* [MistTrack](https://misttrack.io/)
+* [Phalcon BlockSec](https://phalcon.blocksec.com/?s=09)
+* [Tx eth samczsun](https://tx.eth.samczsun.com/)
+* [Tenderly](https://tenderly.co/)
 
 ## Standford Defi Security Summit 2022
-- Day 1: https://youtu.be/EdH7UaJec3g
-- Day 2: https://youtu.be/umV-wcKlpjg
+* [Day-1](https://youtu.be/EdH7UaJec3g)
+* [Day 2](https://youtu.be/umV-wcKlpjg)
 
 ## Cryptocurrency OSINT
 - https://start.me/p/ek4rxK/cryptocurrency-osint

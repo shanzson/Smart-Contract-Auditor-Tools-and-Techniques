@@ -85,6 +85,9 @@
 ## Technique to handle "missing return" ERC20 tokens
 - https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca 
 
+## All types of Reentrant attacks 
+- https://github.com/pcaversaccio/reentrancy-attacks
+
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)

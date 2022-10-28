@@ -12,7 +12,7 @@
 
 ## Standford Defi Security Summit 2022
 * [Day-1](https://youtu.be/EdH7UaJec3g)
-* [Day 2](https://youtu.be/umV-wcKlpjg)
+* [Day-2](https://youtu.be/umV-wcKlpjg)
 
 ## Cryptocurrency OSINT
 - https://start.me/p/ek4rxK/cryptocurrency-osint

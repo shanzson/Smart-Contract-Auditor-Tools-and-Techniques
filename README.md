@@ -47,6 +47,9 @@
 ## Immunefi Web3 Security library
 - https://github.com/immunefi-team/Web3-Security-Library 
 
+## Ethers.js playground
+- https://playground.ethers.org/
+
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

@@ -9,6 +9,7 @@
 * [Phalcon BlockSec](https://phalcon.blocksec.com/?s=09)
 * [Tx eth samczsun](https://tx.eth.samczsun.com/)
 * [Tenderly](https://tenderly.co/)
+* [Cruise Supremacy](https://cruise.supremacy.team)
 
 ## Standford Defi Security Summit 2022
 * [Day-1](https://youtu.be/EdH7UaJec3g)

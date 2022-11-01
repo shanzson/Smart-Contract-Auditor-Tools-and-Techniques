@@ -12,8 +12,9 @@
 * [Cruise Supremacy](https://cruise.supremacy.team)
 
 ## Standford Defi Security Summit 2022
-* [Day-1](https://youtu.be/EdH7UaJec3g)
-* [Day-2](https://youtu.be/umV-wcKlpjg)
+* [Day-1 Full](https://youtu.be/EdH7UaJec3g)
+* [Day-2 Full](https://youtu.be/umV-wcKlpjg)
+* [Defi-Security-Summit Channel](https://www.youtube.com/channel/UCmWdqeY9Dmcz9692nU6LjLQ)
 
 ## Cryptocurrency OSINT
 - https://start.me/p/ek4rxK/cryptocurrency-osint

@@ -2,7 +2,8 @@
 # Smart Contract Auditor Tools and Techniques
 
 ## How to become a Smart Contract Auditor
-- https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k
+* [How to become smart contract auditor and bounty hunter blog- by Officer CIA](https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k)
+* [Auditor's Roadmap by RazzorSec](https://github.com/razzorsec/AuditorsRoadmap)
 
 ## Transaction Visualization tools for hacks
 * [MistTrack](https://misttrack.io/)

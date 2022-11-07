@@ -17,44 +17,20 @@
 * [Day-2 Full](https://youtu.be/umV-wcKlpjg)
 * [Defi-Security-Summit Channel](https://www.youtube.com/channel/UCmWdqeY9Dmcz9692nU6LjLQ)
 
-## Cryptocurrency OSINT
-- https://start.me/p/ek4rxK/cryptocurrency-osint
-
-## Tool for Storage visualization of Proxy contracts (To check for storage collision)
-- https://github.com/naddison36/sol2uml
-
-## Uniswap TWAP Oracle Price Manipulation Simulator
-- https://www.euler.finance/blog/uniswap-oracle-attack-simulator
-
-## Metamorphic contracts detector
-- https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/
-
-## Vscode on Etherscan
-- https://github.com/dethcrypto/dethcode 
-
-## EVM traces with Python
-- https://banteg.mirror.xyz/3dbuIlaHh30IPITWzfT1MFfSg6fxSssMqJ7TcjaWecM 
-
-## Tool to detect Out of Gas/Denial of Service
-- https://blog.pessimistic.io/gas-gauge-pressure-control-b1c86fd7cd?123 
-
-## List of Defi Hacks with Proof of Concept
-- https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee
-
-## Tool to extract ABI from Unverified contracts
-- https://github.com/shazow/whatsabi
-
-## Tool to get historical data from EVM chains
-- https://github.com/fei-protocol/checkthechain
-
-## Immunefi Web3 Security library
-- https://github.com/immunefi-team/Web3-Security-Library 
-
-## Ethers.js playground
-- https://playground.ethers.org/
-
-## ETH-Toolbox: Useful tools for Ethereum devs
-- https://eth-toolbox.com/
+## Miscellaneous Tools
+* [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
+* [Tool for Storage visualization of Proxy contracts & to check storage collision](https://github.com/naddison36/sol2uml)
+* [Uniswap TWAP Oracle Price Manipulation Simulator](https://www.euler.finance/blog/uniswap-oracle-attack-simulator)
+* [Metamorphic contracts detector](https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/)
+* [Vscode on Etherscan](https://github.com/dethcrypto/dethcode)
+* [EVM traces with Python](https://banteg.mirror.xyz/3dbuIlaHh30IPITWzfT1MFfSg6fxSssMqJ7TcjaWecM)
+* [Tool to detect Out of Gas/Denial of Service](https://blog.pessimistic.io/gas-gauge-pressure-control-b1c86fd7cd?123 )
+* [List of Defi Hacks with Proof of Concept](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
+* [Tool to extract ABI from Unverified contracts](https://github.com/shazow/whatsabi)
+* [Tool to get historical data from EVM chains](https://github.com/fei-protocol/checkthechain)
+* [Immunefi Web3 Security library](https://github.com/immunefi-team/Web3-Security-Library)
+* [Ethers.js playground](https://playground.ethers.org/)
+* [ETH-Toolbox: Useful tools for Ethereum devs](https://eth-toolbox.com/)
 
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
@@ -71,7 +47,6 @@
 - https://tutela.xyz/
 
 ## Static analysis Tools: 
-
 * [Oyente](https://lnkd.in/dqZP3V3w)
 * [Mythril](https://lnkd.in/dAjsXcWj)
 * [Osiris](https://lnkd.in/dYFtk6SZ)
@@ -91,14 +66,7 @@
 * [Eth-Isabelle](https://lnkd.in/dB_Mvz8p)
 * [SmartPulse](https://lnkd.in/dmwEEPTY)
 
-## Handling "missing return" ERC20 tokens
-- https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca 
-
-## All types of Reentrant attacks 
-- https://github.com/pcaversaccio/reentrancy-attacks
-
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
-
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
 * [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
 * [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
@@ -108,3 +76,5 @@
 * [Secureum Security Pitfalls 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201?s=r)
 * [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them (Part 1)](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)[(Part 2)](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834)
 * [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
+* [Handling "missing return" ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
+* [All types of Reentrant attacks](https://github.com/pcaversaccio/reentrancy-attacks)

@@ -53,6 +53,9 @@
 ## Ethers.js playground
 - https://playground.ethers.org/
 
+## ETH-Toolbox: Useful tools for Ethereum devs
+- https://eth-toolbox.com/
+
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

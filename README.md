@@ -8,6 +8,7 @@
 ## Transaction Visualization tools for hacks
 * [MistTrack](https://misttrack.io/)
 * [Phalcon BlockSec](https://phalcon.blocksec.com/?s=09)
+* [Bitquery Explorer](https://explorer.bitquery.io/ethereum/address/0x58f56615180a8eea4c462235d9e215f72484b4a3/graph?theme=dark)
 * [Tx eth samczsun](https://tx.eth.samczsun.com/)
 * [Tenderly](https://tenderly.co/)
 * [Cruise Supremacy](https://cruise.supremacy.team)

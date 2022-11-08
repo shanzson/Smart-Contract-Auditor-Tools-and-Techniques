@@ -81,3 +81,4 @@
 * [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
 * [Handling "missing return" ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
 * [All types of Reentrant attacks](https://github.com/pcaversaccio/reentrancy-attacks)
+* [Smart Contract Weakness Classification Registry (SWC Registry)](https://swcregistry.io/)

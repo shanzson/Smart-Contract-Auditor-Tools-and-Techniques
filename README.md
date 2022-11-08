@@ -32,6 +32,7 @@
 * [Immunefi Web3 Security library](https://github.com/immunefi-team/Web3-Security-Library)
 * [Ethers.js playground](https://playground.ethers.org/)
 * [ETH-Toolbox: Useful tools for Ethereum devs](https://eth-toolbox.com/)
+* [EVM codes Interactive Playground](https://www.evm.codes/)
 
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/

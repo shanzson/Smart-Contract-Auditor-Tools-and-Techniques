@@ -36,18 +36,18 @@
 * [Audit findings database search](https://audit-hero.com/search-findings)
  
 ## OffcierCIA On-chain Investigation Tools
-- https://ethtective.com/
-- http://breadcrumbs.app/
-- https://app.hal.xyz/
-- https://dune.xyz/
-- https://nansen.ai/
-- https://bloxy.info/
-- https://github.com/naddison36/tx2uml
-- https://github.com/ApeWorX/evm-trace
-- https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2
-- https://app.unrekt.net/
-- https://revoke.cash/
-- https://tutela.xyz/
+* [Ethtective](https://ethtective.com/)
+* [Breadcrumbs](http://breadcrumbs.app/)
+* [Hal](https://app.hal.xyz/)
+* [Dune Analytics](https://dune.xyz/)
+* [Nansen.ai](https://nansen.ai/)
+* [Bloxy.info](https://bloxy.info/)
+* [Tx2uml](https://github.com/naddison36/tx2uml)
+* [EVM Trace](https://github.com/ApeWorX/evm-trace)
+* [3D VR blockchain visualization](https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2)
+* [Unrekt.net](https://app.unrekt.net/)
+* [Revoke.cash](https://revoke.cash/)
+* [Tutela](https://tutela.xyz/)
 
 ## Static analysis Tools: 
 * [Oyente](https://lnkd.in/dqZP3V3w)

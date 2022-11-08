@@ -33,7 +33,8 @@
 * [Ethers.js playground](https://playground.ethers.org/)
 * [ETH-Toolbox: Useful tools for Ethereum devs](https://eth-toolbox.com/)
 * [EVM codes Interactive Playground](https://www.evm.codes/)
-
+* [Audit findings database search](https://audit-hero.com/search-findings)
+ 
 ## OffcierCIA On-chain Investigation Tools
 - https://ethtective.com/
 - http://breadcrumbs.app/

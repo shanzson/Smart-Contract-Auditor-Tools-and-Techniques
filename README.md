@@ -12,6 +12,7 @@
 * [Tx eth samczsun](https://tx.eth.samczsun.com/)
 * [Tenderly](https://tenderly.co/)
 * [Cruise Supremacy](https://cruise.supremacy.team)
+* [Cross-chain transaction tracker](https://socketscan.io/)
 
 ## Standford Defi Security Summit 2022
 * [Day-1 Full](https://youtu.be/EdH7UaJec3g)

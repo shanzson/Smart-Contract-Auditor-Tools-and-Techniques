@@ -84,8 +84,8 @@
 * [KEVM](https://lnkd.in/dbqXZq3H)
 * [Eth-Isabelle](https://lnkd.in/dB_Mvz8p)
 * [SmartPulse](https://lnkd.in/dmwEEPTY)
-* [semgrep](https://github.com/Decurity/semgrep-smart-contracts)
-* [c4udit](https://github.com/byterocket/c4udit)
+* [Semgrep](https://github.com/Decurity/semgrep-smart-contracts)
+* [C4udit](https://github.com/byterocket/c4udit)
 
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)

@@ -38,6 +38,7 @@
 * [Audit findings database search](https://audit-hero.com/search-findings)
 * [Echidna Fuzzer](https://github.com/crytic/echidna)
 * [Trade volume metrics across all chains](http://explorer.0x.org)
+* [Tool to check audited code diff on-chain](https://app.zellic.io/?_gl=1*f41ue9*_ga*NjE2MzI2NTIyLjE2NTc0NjAwMTY.*_ga_CKQ2MLPVX5*MTY2ODU3ODU1MS42LjAuMTY2ODU3ODU1MS4wLjAuMA..)
 
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)

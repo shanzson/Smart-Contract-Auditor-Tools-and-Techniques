@@ -35,7 +35,8 @@
 * [ETH-Toolbox: Useful tools for Ethereum devs](https://eth-toolbox.com/)
 * [EVM codes Interactive Playground](https://www.evm.codes/)
 * [Audit findings database search](https://audit-hero.com/search-findings)
- 
+* [Echidna Fuzzer](https://github.com/crytic/echidna)
+
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)
 * [Breadcrumbs](http://breadcrumbs.app/)
@@ -49,6 +50,12 @@
 * [Unrekt.net](https://app.unrekt.net/)
 * [Revoke.cash](https://revoke.cash/)
 * [Tutela](https://tutela.xyz/)
+
+## Echidna Fuzzing resources
+* [Echidna Fuzzing](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
+* [More on fuzzing using Echidna](https://blog.pessimistic.io/fuzzing-solidity-smart-contracts-with-echidna-die-hard-level-tips-9ab7033fa893?123)
+* [ToB setting up fuzzing for clients](https://twitter.com/transmissions11/status/1487586670153060352)
+* [ToB livestream on fuzzing using Echidna](https://blog.trailofbits.com/2022/11/14/livestream-workshop-fuzzing-echidna-slither/)
 
 ## Static analysis Tools: 
 * [Oyente](https://lnkd.in/dqZP3V3w)

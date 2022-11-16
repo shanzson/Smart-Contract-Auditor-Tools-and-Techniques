@@ -99,3 +99,6 @@
 * [Best practice for Upgradeable smart contracts](https://mirror.xyz/shanzson.eth/HHvF8IDCiJs62C3GGDZXY5JqJnlKsl1oaBoUY_O8rY8)
 * [Guide to Governance attacks](https://bowtiedisland.com/governance-attacks-and-you-the-responsible-citizens-guide/)
 * [A white hat mindset- From the perspective of a smart contract auditor](https://mirror.xyz/shanzson.eth/jJR3drPtxZ8uuuW0086_o2m0qkS13QfF8ZueYxeuG_Q)
+
+## Free smart contract security-related resources
+* [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

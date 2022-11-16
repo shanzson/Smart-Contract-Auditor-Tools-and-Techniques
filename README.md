@@ -91,4 +91,6 @@
 * [All types of Reentrant attacks](https://github.com/pcaversaccio/reentrancy-attacks)
 * [Smart Contract Weakness Classification Registry (SWC Registry)](https://swcregistry.io/)
 * [Ethereum Post Merge Security and known attack vectors](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attack-and-defense/)
+* [Best practice for Upgradeable smart contracts](https://mirror.xyz/shanzson.eth/HHvF8IDCiJs62C3GGDZXY5JqJnlKsl1oaBoUY_O8rY8)
 * [Guide to Governance attacks](https://bowtiedisland.com/governance-attacks-and-you-the-responsible-citizens-guide/)
+* [A white hat mindset](https://mirror.xyz/shanzson.eth/jJR3drPtxZ8uuuW0086_o2m0qkS13QfF8ZueYxeuG_Q)

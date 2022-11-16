@@ -94,4 +94,4 @@
 * [Ethereum Post Merge Security and known attack vectors](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attack-and-defense/)
 * [Best practice for Upgradeable smart contracts](https://mirror.xyz/shanzson.eth/HHvF8IDCiJs62C3GGDZXY5JqJnlKsl1oaBoUY_O8rY8)
 * [Guide to Governance attacks](https://bowtiedisland.com/governance-attacks-and-you-the-responsible-citizens-guide/)
-* [A white hat mindset- A smart contract auditor's perspective](https://mirror.xyz/shanzson.eth/jJR3drPtxZ8uuuW0086_o2m0qkS13QfF8ZueYxeuG_Q)
+* [A white hat mindset- From the perspective of a smart contract auditor](https://mirror.xyz/shanzson.eth/jJR3drPtxZ8uuuW0086_o2m0qkS13QfF8ZueYxeuG_Q)

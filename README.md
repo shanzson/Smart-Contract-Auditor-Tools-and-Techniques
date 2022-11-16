@@ -93,6 +93,8 @@
 * [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them (Part 1)](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)[(Part 2)](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834)
 * [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
 * [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+* [All Ethereum EIPs](https://eips.ethereum.org/)
+* [Missing support for  EIP-2930 on BSC](https://ethereum.stackexchange.com/questions/122558/does-bsc-chain-support-eip2930)
 * [Handling "missing return" ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
 * [All types of Reentrant attacks](https://github.com/pcaversaccio/reentrancy-attacks)
 * [Smart Contract Weakness Classification Registry (SWC Registry)](https://swcregistry.io/)

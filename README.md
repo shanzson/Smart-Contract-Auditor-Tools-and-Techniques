@@ -58,7 +58,7 @@
 * [ToB setting up fuzzing for clients](https://twitter.com/transmissions11/status/1487586670153060352)
 * [ToB livestream on fuzzing using Echidna](https://blog.trailofbits.com/2022/11/14/livestream-workshop-fuzzing-echidna-slither/)
 
-## Static analysis Tools: 
+## Static analysis Tools and More!
 * [Oyente](https://lnkd.in/dqZP3V3w)
 * [Mythril](https://lnkd.in/dAjsXcWj)
 * [Osiris](https://lnkd.in/dYFtk6SZ)

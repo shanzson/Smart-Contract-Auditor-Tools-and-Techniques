@@ -37,6 +37,7 @@
 * [EVM codes Interactive Playground](https://www.evm.codes/)
 * [Audit findings database search](https://audit-hero.com/search-findings)
 * [Echidna Fuzzer](https://github.com/crytic/echidna)
+* [Trade volume metrics across all chains](http://explorer.0x.org)
 
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)

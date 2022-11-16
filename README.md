@@ -40,6 +40,9 @@
 * [Trade volume metrics across all chains](http://explorer.0x.org)
 * [Tool to check audited code diff on-chain](https://app.zellic.io/?_gl=1*f41ue9*_ga*NjE2MzI2NTIyLjE2NTc0NjAwMTY.*_ga_CKQ2MLPVX5*MTY2ODU3ODU1MS42LjAuMTY2ODU3ODU1MS4wLjAuMA..)
 * [Oracle risk rating tool](https://docs.euler.finance/euler-protocol/getting-started/methodology/oracle-rating)
+* [Tool to diff contracts using simhashes](https://contract-diff.xyz)
+* [Tool to match hashes of known contracts](https://github.com/lpinilla/Smart-Contract-Hash-Matcher)
+* [ABI decompiler](https://github.com/Decurity/abi-decompiler)
 
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)
@@ -81,6 +84,8 @@
 * [KEVM](https://lnkd.in/dbqXZq3H)
 * [Eth-Isabelle](https://lnkd.in/dB_Mvz8p)
 * [SmartPulse](https://lnkd.in/dmwEEPTY)
+* [semgrep](https://github.com/Decurity/semgrep-smart-contracts)
+* [c4udit](https://github.com/byterocket/c4udit)
 
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)

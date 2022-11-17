@@ -99,7 +99,7 @@
 * [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
 * [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 * [All Ethereum EIPs](https://eips.ethereum.org/)
-* [Missing support for  EIP-2930 on BSC](https://ethereum.stackexchange.com/questions/122558/does-bsc-chain-support-eip2930)
+* [Missing support for EIP-2930 on BSC- Beware Multisigs!](https://ethereum.stackexchange.com/questions/122558/does-bsc-chain-support-eip2930)
 * [Handling "missing return" ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
 * [All types of Reentrant attacks](https://github.com/pcaversaccio/reentrancy-attacks)
 * [Smart Contract Weakness Classification Registry (SWC Registry)](https://swcregistry.io/)
@@ -108,6 +108,7 @@
 * [Guide to Governance attacks](https://bowtiedisland.com/governance-attacks-and-you-the-responsible-citizens-guide/)
 * [A white hat mindset- From the perspective of a smart contract auditor](https://mirror.xyz/shanzson.eth/jJR3drPtxZ8uuuW0086_o2m0qkS13QfF8ZueYxeuG_Q)
 * [Commit and Reveal scheme to mitigate Front-run attacks](https://solidity-by-example.org/hacks/front-running/)
-
+* [Price Oracle Best practices](https://samczsun.com/so-you-want-to-use-a-price-oracle/)
+ 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

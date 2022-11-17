@@ -15,7 +15,7 @@
 * [Cross-chain transaction tracker](https://socketscan.io/)
 * [Front-running explorer](https://zeromev.org/)
 
-## Standford Defi Security Summit 2022
+## Stanford Defi Security Summit 2022
 * [Day-1 Full](https://youtu.be/EdH7UaJec3g)
 * [Day-2 Full](https://youtu.be/umV-wcKlpjg)
 * [Defi-Security-Summit Channel](https://www.youtube.com/channel/UCmWdqeY9Dmcz9692nU6LjLQ)

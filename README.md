@@ -114,3 +114,4 @@
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
+* [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)

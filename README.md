@@ -111,7 +111,7 @@
 * [A white hat mindset- From the perspective of a smart contract auditor](https://mirror.xyz/shanzson.eth/jJR3drPtxZ8uuuW0086_o2m0qkS13QfF8ZueYxeuG_Q)
 * [Commit and Reveal scheme to mitigate Front-run attacks](https://solidity-by-example.org/hacks/front-running/)
 * [Price Oracle Best practices](https://samczsun.com/so-you-want-to-use-a-price-oracle/)
-
+* [Solving the issue with slippage in EIP-4626]( https://link.medium.com/d4tmBHMijvb)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

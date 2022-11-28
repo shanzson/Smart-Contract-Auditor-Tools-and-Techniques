@@ -43,6 +43,7 @@
 * [Tool to diff contracts using simhashes](https://contract-diff.xyz)
 * [Tool to match hashes of known contracts](https://github.com/lpinilla/Smart-Contract-Hash-Matcher)
 * [ABI decompiler](https://github.com/Decurity/abi-decompiler)
+* [Database](https://cryptoscamdb.org/scams) and [tool](https://www.chainabuse.com/) to detect and report scams
 
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)

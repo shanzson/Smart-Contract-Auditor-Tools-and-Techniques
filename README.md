@@ -45,6 +45,17 @@
 * [ABI decompiler](https://github.com/Decurity/abi-decompiler)
 * [Database](https://cryptoscamdb.org/scams) and [tool](https://www.chainabuse.com/) to detect and report scams
 
+## On-Chain Monitoring tools for attacks (Refer [Pessimistic-blog](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a))
+* [Forta](https://forta.org/)
+* [Defender](https://www.openzeppelin.com/defender)
+* [Tenderly](https://tenderly.co/)
+* [Lossless](https://lossless.io/)
+* [Hackless](https://hackless.io/)
+* [Blocknative](https://www.blocknative.com/)
+* [Seraph](https://dl.acm.org/doi/10.1145/3377812.3382157)
+* [Slowmist monitor](https://www.slowmist.com/service-security-monitoring.html)
+* [Ironblocks](https://www.ironblocks.com/)
+
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)
 * [Breadcrumbs](http://breadcrumbs.app/)

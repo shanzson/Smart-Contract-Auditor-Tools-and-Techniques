@@ -56,6 +56,16 @@
 * [Slowmist monitor](https://www.slowmist.com/service-security-monitoring.html)
 * [Ironblocks](https://www.ironblocks.com/)
 
+## On-chain Simulators for user-Side Defense
+* [Fire](https://twitter.com/_joinfire?t=zSw5GORhMsd-siI3U4Z3wQ&s=09)
+* [Pocket Universe](https://twitter.com/PocketUniverseZ?t=NULScPCcTkdFQeUmAGa3TA&s=09)
+* [Stelo](https://twitter.com/stelolabs?t=26vhkd6YOUVB2usrZX60Jw&s=09)
+* [Interlock](https://twitter.com/interlockweb3?t=OtVdboey4yC-sN9UvMBbig&s=09)
+* [Wallet guard](https://twitter.com/wallet_guard?t=h7JfUgmUii7RKvny_5V4cA&s=09)
+* [Meshed Labs](https://www.meshed.xyz/)
+* [Blowfish](https://twitter.com/blowfishxyz?t=xrj759mZ1OMgV1WZveXf2w&s=09)
+* [Hexagate](https://twitter.com/hexagate_?t=7cFCpc-kLdVNBDbltNh4uw&s=09)
+
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)
 * [Breadcrumbs](http://breadcrumbs.app/)

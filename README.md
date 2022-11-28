@@ -44,6 +44,7 @@
 * [Tool to match hashes of known contracts](https://github.com/lpinilla/Smart-Contract-Hash-Matcher)
 * [ABI decompiler](https://github.com/Decurity/abi-decompiler)
 * [Database](https://cryptoscamdb.org/scams) and [tool](https://www.chainabuse.com/) to detect and report scams
+* [Rug Checker tools](https://t.co/RseTCjVc86)
 
 ## On-Chain Monitoring tools for attacks (Refer [Pessimistic-blog](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a))
 * [Forta](https://forta.org/)

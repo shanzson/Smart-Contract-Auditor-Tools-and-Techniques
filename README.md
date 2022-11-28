@@ -134,7 +134,8 @@
 * [Commit and Reveal scheme to mitigate Front-run attacks](https://solidity-by-example.org/hacks/front-running/)
 * [Price Oracle Best practices](https://samczsun.com/so-you-want-to-use-a-price-oracle/)
 * [Solving the issue with slippage in EIP-4626]( https://link.medium.com/d4tmBHMijvb)
-* [NFT Security collection](https://telegra.ph/NFT-security-01-28)
+* [NFT Security collection (link works only in telegram)](https://telegra.ph/NFT-security-01-28)
+* [Proxy contracts security guide](https://proxies.yacademy.dev/)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

@@ -142,3 +142,6 @@
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
 * [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
+
+## Privacy Tools
+* [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)

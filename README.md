@@ -146,3 +146,4 @@
 ## Privacy Tools
 * [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)
 * [Hopr protocol](https://hoprnet.org/protocol)
+* Using [Zmok](http://zmok.io) along with [MullVad VPN](http://mullvad.net)

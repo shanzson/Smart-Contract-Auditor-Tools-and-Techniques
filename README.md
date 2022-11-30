@@ -118,6 +118,7 @@
 * [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
 * [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
 * [(Not So) Smart Contracts](https://github.com/crytic/not-so-smart-contracts)
+* [Smart contract best practices by ToB](https://github.com/crytic/building-secure-contracts)
 * [Smart Contract Attack Vectors](https://github.com/kadenzipfel/smart-contract-attack-vectors)
 * [Secureum Security Pitfalls 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
 * [Secureum Security Pitfalls 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201?s=r)

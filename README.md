@@ -90,6 +90,7 @@
 * [More on fuzzing using Echidna](https://blog.pessimistic.io/fuzzing-solidity-smart-contracts-with-echidna-die-hard-level-tips-9ab7033fa893?123)
 * [ToB setting up fuzzing for clients](https://twitter.com/transmissions11/status/1487586670153060352)
 * [ToB livestream on fuzzing using Echidna](https://blog.trailofbits.com/2022/11/14/livestream-workshop-fuzzing-echidna-slither/)
+* [Hybrid Fuzzing](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
 
 ## Static analysis Tools and More!
 * [Oyente](https://lnkd.in/dqZP3V3w)

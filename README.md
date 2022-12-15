@@ -47,6 +47,7 @@
 * [Rug Checker tools](https://t.co/RseTCjVc86)
 * [User friendly Metadock extension by BlockSec](https://twitter.com/BlockSecTeam/status/1595704166860861441?t=JulG2oXuwHhPXI7CK3Kb-w&s=19)
 * [Tool for checking cross-function and cross-contract reentrancy](https://toolman-demo.readthedocs.io/en/latest/index.html)
+* [Tool to guess type of ABI encoded data](https://github.com/samczsun/abi-guesser)
 
 ## On-Chain Monitoring tools for attacks (Refer [Pessimistic-blog](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a))
 * [Forta](https://forta.org/)

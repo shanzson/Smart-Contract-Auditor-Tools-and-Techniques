@@ -143,6 +143,7 @@
 * [Solving the issue with slippage in EIP-4626]( https://link.medium.com/d4tmBHMijvb)
 * [NFT Security collection (link works only in telegram)](https://telegra.ph/NFT-security-01-28)
 * [Proxy contracts security guide](https://proxies.yacademy.dev/)
+* [Awesome Oracle manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

@@ -149,6 +149,7 @@
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
 * [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 * [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
+* [Stanford Cryptography course](https://www.coursera.org/learn/crypto)
 
 ## Privacy Tools
 * [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)

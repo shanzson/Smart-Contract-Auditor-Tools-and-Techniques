@@ -159,3 +159,6 @@
 ## Ethereum blogs to Deep Dive
 * [Timeline of all Ethereum forks and upgrades](https://ethereum.org/en/history/)
 * [How data is stored in Ethereum](https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
+
+## Miscellaneous
+* [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)

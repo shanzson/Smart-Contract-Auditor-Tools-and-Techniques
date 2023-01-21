@@ -150,6 +150,7 @@
 * [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 * [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
 * [Stanford Cryptography course](https://www.coursera.org/learn/crypto)
+* [Mastering Solidity Assembly (YUL)](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
 
 ## Privacy Tools
 * [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)

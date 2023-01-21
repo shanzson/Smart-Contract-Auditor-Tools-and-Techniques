@@ -162,3 +162,4 @@
 
 ## Miscellaneous
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+* [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)

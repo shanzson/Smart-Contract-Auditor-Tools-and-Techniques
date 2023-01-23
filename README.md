@@ -165,3 +165,4 @@
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
 * [Upgrading Ethereum Eth2Book](https://eth2book.info/bellatrix/)
+* [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)

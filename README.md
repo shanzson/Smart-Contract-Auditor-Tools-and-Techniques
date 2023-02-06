@@ -144,6 +144,7 @@
 * [NFT Security collection (link works only in telegram)](https://telegra.ph/NFT-security-01-28)
 * [Proxy contracts security guide](https://proxies.yacademy.dev/)
 * [Awesome Oracle manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
+* [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

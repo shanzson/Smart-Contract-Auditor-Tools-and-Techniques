@@ -145,6 +145,7 @@
 * [Proxy contracts security guide](https://proxies.yacademy.dev/)
 * [Awesome Oracle manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
 * [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
+* [100 point checklist before sending your smart contract for audits](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

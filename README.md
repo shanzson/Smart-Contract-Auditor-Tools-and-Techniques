@@ -49,6 +49,7 @@
 * [Tool for checking cross-function and cross-contract reentrancy](https://toolman-demo.readthedocs.io/en/latest/index.html)
 * [Tool to guess type of ABI encoded data](https://github.com/samczsun/abi-guesser)
 * [Running slither and other tools on cloud](https://www.youtube.com/watch?v=bgv0rVPgjzY)
+* [samczsun's tool to get function signature from abi.encoded data](https://twitter.com/samczsun/status/1625063659981647875?t=K9E_WZzY5mMao8BaQYFqcw&s=19)
 
 ## On-Chain Monitoring tools for attacks (Refer [Pessimistic-blog](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a))
 * [Forta](https://forta.org/)

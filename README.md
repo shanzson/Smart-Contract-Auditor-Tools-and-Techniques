@@ -129,7 +129,6 @@
 * [Secureum Security Pitfalls 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201?s=r)
 * [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them (Part 1)](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)[(Part 2)](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834)
 * [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
-* [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 * [All Ethereum EIPs](https://eips.ethereum.org/)
 * [Missing support for EIP-2930 on BSC- Beware Multisigs!](https://ethereum.stackexchange.com/questions/122558/does-bsc-chain-support-eip2930)
 * [Handling "missing return" ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
@@ -149,6 +148,8 @@
 * [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
 * [100 point checklist before sending your smart contract for audits](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 * [Solcurity security checklist for audits](https://github.com/transmissions11/solcurity)
+* [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

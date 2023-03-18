@@ -151,6 +151,7 @@
 * [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [Smart Contract Security Verification Standard (SCSVS)](https://github.com/ComposableSecurity/SCSVS)
+* [Top 10 Hacking Techniques of 2022- by Openzeppelin](https://www.openzeppelin.com/security-audits/top-hacking-techniques-2022)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

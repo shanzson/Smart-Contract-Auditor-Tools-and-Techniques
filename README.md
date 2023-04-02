@@ -117,6 +117,7 @@
 * [SmartPulse](https://lnkd.in/dmwEEPTY)
 * [Semgrep](https://github.com/Decurity/semgrep-smart-contracts)
 * [C4udit](https://github.com/byterocket/c4udit)
+* [Solidcheck](https://solidcheck.io)
 
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)

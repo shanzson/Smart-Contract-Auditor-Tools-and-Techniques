@@ -95,6 +95,7 @@
 * [ToB setting up fuzzing for clients](https://twitter.com/transmissions11/status/1487586670153060352)
 * [ToB livestream on fuzzing using Echidna](https://blog.trailofbits.com/2022/11/14/livestream-workshop-fuzzing-echidna-slither/)
 * [Hybrid Fuzzing](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
+* [Intro to advanced, with tips & FAQs](https://secure-contracts.com/program-analysis/echidna/index.html)
 
 ## Static analysis Tools and More!
 * [Oyente](https://lnkd.in/dqZP3V3w)

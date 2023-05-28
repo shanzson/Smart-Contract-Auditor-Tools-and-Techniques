@@ -155,6 +155,7 @@
 
 ## Audit reports and findings
 * [Code4Arena Audit reports](https://code4rena.com/reports)
+* [Sherlock Audit reports](https://github.com/sherlock-protocol/sherlock-reports)
 * [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 

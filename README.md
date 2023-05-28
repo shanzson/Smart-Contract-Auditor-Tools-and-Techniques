@@ -150,14 +150,17 @@
 * [100 point checklist before sending your smart contract for audits](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 * [Solcurity security checklist for audits](https://github.com/transmissions11/solcurity)
 * [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
-* [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [Smart Contract Security Verification Standard (SCSVS)](https://github.com/ComposableSecurity/SCSVS)
 * [Top 10 Hacking Techniques of 2022- by Openzeppelin](https://www.openzeppelin.com/security-audits/top-hacking-techniques-2022)
+
+## Audit reports and findings
+* [Code4Arena Audit reports](https://code4rena.com/reports)
+* [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
+* [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
 * [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
-* [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
 * [Stanford Cryptography course](https://www.coursera.org/learn/crypto)
 * [Mastering Solidity Assembly (YUL)](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
 

@@ -35,7 +35,6 @@
 * [Ethers.js playground](https://playground.ethers.org/)
 * [ETH-Toolbox: Useful tools for Ethereum devs](https://eth-toolbox.com/)
 * [EVM codes Interactive Playground](https://www.evm.codes/)
-* [Audit findings database search](https://audit-hero.com/search-findings)
 * [Echidna Fuzzer](https://github.com/crytic/echidna)
 * [Trade volume metrics across all chains](http://explorer.0x.org)
 * [Tool to check audited code diff on-chain](https://app.zellic.io/?_gl=1*f41ue9*_ga*NjE2MzI2NTIyLjE2NTc0NjAwMTY.*_ga_CKQ2MLPVX5*MTY2ODU3ODU1MS42LjAuMTY2ODU3ODU1MS4wLjAuMA..)
@@ -157,8 +156,9 @@
 * [Code4Arena Audit reports](https://code4rena.com/reports)
 * [Sherlock Audit reports](https://github.com/sherlock-protocol/sherlock-reports)
 * [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
-* [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+* [Search Code4rena and Sherlock findings](https://audit-hero.com/search-findings)
 * [Immunefi Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
+* [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

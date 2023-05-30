@@ -158,6 +158,7 @@
 * [Sherlock Audit reports](https://github.com/sherlock-protocol/sherlock-reports)
 * [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+* [Immunefi Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
@@ -179,3 +180,4 @@
 * [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
 * [Upgrading Ethereum Eth2Book](https://eth2book.info/bellatrix/)
 * [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
+* [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)

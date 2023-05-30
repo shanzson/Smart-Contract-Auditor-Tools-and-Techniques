@@ -152,9 +152,9 @@
 * [Top 10 Hacking Techniques of 2022- by Openzeppelin](https://www.openzeppelin.com/security-audits/top-hacking-techniques-2022)
 
 ## Audit reports and findings
-* [Code4Arena Audit reports](https://code4rena.com/reports)
+* [Code4rena Audit reports](https://code4rena.com/reports)
 * [Sherlock Audit reports](https://github.com/sherlock-protocol/sherlock-reports)
-* [The Auditor book- Sherlock and Code4arena findings](https://theauditorbook.com/)
+* [The Auditor book- Sherlock and Code4rena findings](https://theauditorbook.com/)
 * [Search Code4rena and Sherlock findings](https://audit-hero.com/search-findings)
 * [Immunefi Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
 * [Solodit search with filters](https://solodit.xyz/)

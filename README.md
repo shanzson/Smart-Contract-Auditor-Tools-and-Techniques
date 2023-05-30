@@ -177,7 +177,7 @@
 
 ## PoCs
 - * [Coinspect EVM attacks](https://github.com/coinspect/learn-evm-attacks)
-- * [SunWeb3Sec PoCs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md)
+- * [Defi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
 ## Miscellaneous
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)

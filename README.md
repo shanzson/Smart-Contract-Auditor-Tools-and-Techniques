@@ -160,6 +160,7 @@
 * [Immunefi Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
 * [Solodit search with filters](https://solodit.xyz/)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+* [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

@@ -173,6 +173,7 @@
 * [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 * [Stanford Cryptography course](https://www.coursera.org/learn/crypto)
 * [Mastering Solidity Assembly (YUL)](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
+* [All about assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 
 ## Privacy Tools
 * [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)

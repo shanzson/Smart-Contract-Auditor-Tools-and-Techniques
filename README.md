@@ -61,6 +61,9 @@
 * [Seraph](https://dl.acm.org/doi/10.1145/3377812.3382157)
 * [Slowmist monitor](https://www.slowmist.com/service-security-monitoring.html)
 * [Ironblocks](https://www.ironblocks.com/)
+* [Hypernative](https://www.hypernative.io/)
+* [Hacken Extractor](https://hacken.io/hacken-news/hacken-extractor-public-beta-launch/)
+* [Peckshield's KillSwitch](https://twitter.com/peckshield/status/1571819575901319168)
 
 ## On-chain Simulators for user-Side Defense
 * [Fire](https://twitter.com/_joinfire?t=zSw5GORhMsd-siI3U4Z3wQ&s=09)

@@ -184,8 +184,8 @@
 * [How data is stored in Ethereum](https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
 
 ## PoCs
-- * [Coinspect EVM attacks](https://github.com/coinspect/learn-evm-attacks)
-- * [Defi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [Coinspect EVM attacks](https://github.com/coinspect/learn-evm-attacks)
+* [Defi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
 ## Miscellaneous
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)

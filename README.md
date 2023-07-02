@@ -63,6 +63,9 @@
 * [Ironblocks](https://www.ironblocks.com/)
 * [Hypernative](https://www.hypernative.io/)
 * [Hacken Extractor](https://hacken.io/hacken-news/hacken-extractor-public-beta-launch/)
+* [QuickNode's QuickAlerts]
+* [Cyvers.ai](https://cyvers.ai/)
+* [Hexagate](https://www.hexagate.com/)
 * [Peckshield's KillSwitch](https://twitter.com/peckshield/status/1571819575901319168)
 
 ## On-chain Simulators for user-Side Defense

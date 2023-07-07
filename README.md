@@ -167,6 +167,7 @@
 * [Solodit search with filters](https://solodit.xyz/)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
+* [List of Bridge hacks](https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

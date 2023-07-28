@@ -170,6 +170,10 @@
 * [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 * [List of Bridge hacks](https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d)
 
+## ZK security
+- [Intro to Zk Security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
+
+
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
 * [Awesome Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
@@ -196,3 +200,4 @@
 * [Upgrading Ethereum Eth2Book](https://eth2book.info/bellatrix/)
 * [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 * [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)
+

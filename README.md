@@ -172,7 +172,7 @@
 ## ZK security
 * [Intro to Zk Security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
 * [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
-
+* [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)
@@ -196,7 +196,6 @@
 
 ## Miscellaneous
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
-* [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
 * [Upgrading Ethereum Eth2Book](https://eth2book.info/bellatrix/)
 * [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 * [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)

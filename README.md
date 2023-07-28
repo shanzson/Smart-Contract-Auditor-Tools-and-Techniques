@@ -167,11 +167,11 @@
 * [Immunefi Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
 * [Solodit search with filters](https://solodit.xyz/)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
-* [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 * [List of Bridge hacks](https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d)
 
 ## ZK security
-- [Intro to Zk Security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
+* [Intro to Zk Security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
+* [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 
 
 ## Free smart contract security-related resources

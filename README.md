@@ -151,7 +151,6 @@
 * [NFT Security collection](https://telegra.ph/NFT-security-01-28)
 * [Proxy contracts security guide](https://proxies.yacademy.dev/)
 * [Awesome Oracle manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
-* [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
 * [100 point checklist before sending your smart contract for audits](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 * [Solcurity security checklist for audits](https://github.com/transmissions11/solcurity)
 * [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
@@ -174,6 +173,7 @@
 * [Intro to Zk Security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
 * [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 * [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
+* [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

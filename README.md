@@ -158,6 +158,7 @@
 * [Smart Contract Security Verification Standard (SCSVS)](https://github.com/ComposableSecurity/SCSVS)
 * [Top 10 Hacking Techniques of 2022- by Openzeppelin](https://www.openzeppelin.com/security-audits/top-hacking-techniques-2022)
 * [Question until it crashes- by Tincho](https://blog.theredguild.org/question-until-it-crashes/)
+* [Reproducing MEV attacks](https://medium.com/immunefi/how-to-reproduce-a-simple-mev-attack-b38151616cb4)
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

@@ -175,6 +175,8 @@
 * [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 * [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
 * [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
+* [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
+* [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

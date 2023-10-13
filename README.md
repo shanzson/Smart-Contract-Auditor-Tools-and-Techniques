@@ -23,7 +23,7 @@
 ## Miscellaneous Tools
 * [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 * [Tool for Storage visualization of Proxy contracts & to check storage collision](https://github.com/naddison36/sol2uml)
-* [Uniswap TWAP Oracle Price Manipulation Simulator](https://www.euler.finance/blog/uniswap-oracle-attack-simulator)
+* [Uniswap TWAP Oracle Price Manipulation Simulator](https://www.euler.finance/blog/oracle-attack-simulator)
 * [Metamorphic contracts detector](https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/)
 * [Vscode on Etherscan](https://github.com/dethcrypto/dethcode)
 * [EVM traces with Python](https://banteg.mirror.xyz/3dbuIlaHh30IPITWzfT1MFfSg6fxSssMqJ7TcjaWecM)

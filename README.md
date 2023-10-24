@@ -160,6 +160,7 @@
 * [Question until it crashes- by Tincho](https://blog.theredguild.org/question-until-it-crashes/)
 * [Reproducing MEV attacks](https://medium.com/immunefi/how-to-reproduce-a-simple-mev-attack-b38151616cb4)
 * [Chainlink oracle attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf)
+* [Checklist for Signature verification](https://twitter.com/TheSchnlich/status/1693747190458433881)
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

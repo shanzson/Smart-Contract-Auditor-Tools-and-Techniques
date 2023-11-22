@@ -163,7 +163,7 @@
 * [Chainlink oracle attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf)
 * [Checklist for Signature verification](https://twitter.com/TheSchnlich/status/1693747190458433881)
 * [Signature Replay attacks](https://www.youtube.com/watch?v=jq1b-ZDRVDc)
-* Improper verification of signatures[SWC-121](https://swcregistry.io/docs/SWC-121/) and [SWC-117](https://swcregistry.io/docs/SWC-117/)
+* Improper verification of signatures [SWC-121](https://swcregistry.io/docs/SWC-121/) and [SWC-117](https://swcregistry.io/docs/SWC-117/)
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

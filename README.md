@@ -184,6 +184,7 @@
 * [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
 * [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
 * [Zk learning with 0xparc](https://learn.0xparc.org/)
+* [Zk learning resources by Shanzson :)](https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources/blob/main/README.md)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

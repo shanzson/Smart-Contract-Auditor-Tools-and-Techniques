@@ -212,4 +212,5 @@
 * [Upgrading Ethereum Eth2Book](https://eth2book.info/bellatrix/)
 * [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 * [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)
+* [Formal verification Speedrun with Halmos, Kontrol and Certora](https://youtu.be/pjwYr97Q-Ok?si=2uGujm-p4be8mcdN)
 

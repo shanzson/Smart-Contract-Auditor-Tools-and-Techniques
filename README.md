@@ -176,13 +176,14 @@
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [List of Bridge hacks](https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d)
 
-## ZK security
+## ZK security and Learning resources
 * [Intro to Zk Security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
 * [Zk bugs tracker](https://github.com/0xPARC/zk-bug-tracker)
 * [Zk hash collision vulnerability](https://youtu.be/W4zAbEnJQUw)
 * [Common Zero-Knowledge Proof Vulnerabilities](https://youtu.be/1RQSwj8h8rM)
 * [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
 * [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
+* [Zk learning with 0xparc](https://learn.0xparc.org/)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

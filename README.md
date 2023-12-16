@@ -156,6 +156,7 @@
 * [100 point checklist before sending your smart contract for audits](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 * [Solcurity security checklist for audits](https://github.com/transmissions11/solcurity)
 * [Smart contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+* [Solodit audit checklist](https://solodit.xyz/checklist)
 * [Smart Contract Security Verification Standard (SCSVS)](https://github.com/ComposableSecurity/SCSVS)
 * [Top 10 Hacking Techniques of 2022- by Openzeppelin](https://www.openzeppelin.com/security-audits/top-hacking-techniques-2022)
 * [Question until it crashes- by Tincho](https://blog.theredguild.org/question-until-it-crashes/)

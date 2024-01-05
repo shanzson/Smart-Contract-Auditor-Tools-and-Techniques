@@ -126,7 +126,7 @@
 
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
-* [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
+* [Smart Contract Best Practices- The Smart Contract Security Field Guide](https://scsfg.io/hackers/)
 * [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
 * [(Not So) Smart Contracts](https://github.com/crytic/not-so-smart-contracts)
 * [Smart contract best practices by ToB](https://github.com/crytic/building-secure-contracts)

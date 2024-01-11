@@ -112,7 +112,7 @@
 * [Certora](https://docs.certora.com/en/latest/)
 * [Mythril](https://github.com/ConsenSys/mythril)
 * [Kontrol](https://docs.runtimeverification.com/kontrol/overview/readme)
-* [hevm](https://github.com/ethereum/hevm)
+* [hevm](https://github.com/ethereum/hevm) 
 
 ## Static analysis Tools and More!
 * [Oyente](https://lnkd.in/dqZP3V3w)

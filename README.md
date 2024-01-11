@@ -20,6 +20,11 @@
 * [Day-2 Full](https://youtu.be/umV-wcKlpjg)
 * [Defi-Security-Summit Channel](https://www.youtube.com/channel/UCmWdqeY9Dmcz9692nU6LjLQ)
 
+## Stanford Defi Security Summit 2023
+* [Day-0 Full (DeFi Security 101)](https://www.youtube.com/watch?v%253Dv9ANh5wmj_A)
+* [Day-1 Full](https://www.youtube.com/watch?v%253DQhY9T-6QMlU)
+* [Day-2 Full](https://www.youtube.com/watch?v%253DvCfeff4nu-g)
+
 ## Miscellaneous Tools
 * [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 * [Tool for Storage visualization of Proxy contracts & to check storage collision](https://github.com/naddison36/sol2uml)

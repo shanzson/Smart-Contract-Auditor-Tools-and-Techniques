@@ -107,9 +107,15 @@
 * [Hybrid Fuzzing](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
 * [Intro to advanced, with tips & FAQs](https://secure-contracts.com/program-analysis/echidna/index.html)
 
+## Symbolic Execution / Formal Verification Tools
+* [Halmos](https://github.com/a16z/halmos)
+* [Certora](https://docs.certora.com/en/latest/)
+* [Mythril](https://github.com/ConsenSys/mythril)
+* [Kontrol](https://docs.runtimeverification.com/kontrol/overview/readme)
+* [hevm](https://github.com/ethereum/hevm)
+
 ## Static analysis Tools and More!
 * [Oyente](https://lnkd.in/dqZP3V3w)
-* [Mythril](https://lnkd.in/dAjsXcWj)
 * [Osiris](https://lnkd.in/dYFtk6SZ)
 * [Maian](https://lnkd.in/dkkbub3H)
 * [TeEther](https://lnkd.in/dWD_ZGMa)

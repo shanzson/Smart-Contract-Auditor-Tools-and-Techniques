@@ -20,6 +20,11 @@
 * [Day-2 Full](https://youtu.be/umV-wcKlpjg)
 * [Defi-Security-Summit Channel](https://www.youtube.com/channel/UCmWdqeY9Dmcz9692nU6LjLQ)
 
+## Stanford Defi Security Summit 2023
+* [Day-0 Full (DeFi Security 101)](https://www.youtube.com/watch?v%253Dv9ANh5wmj_A)
+* [Day-1 Full](https://www.youtube.com/watch?v%253DQhY9T-6QMlU)
+* [Day-2 Full](https://www.youtube.com/watch?v%253DvCfeff4nu-g)
+
 ## Miscellaneous Tools
 * [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 * [Tool for Storage visualization of Proxy contracts & to check storage collision](https://github.com/naddison36/sol2uml)
@@ -102,9 +107,15 @@
 * [Hybrid Fuzzing](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
 * [Intro to advanced, with tips & FAQs](https://secure-contracts.com/program-analysis/echidna/index.html)
 
+## Symbolic Execution / Formal Verification Tools
+* [Halmos](https://github.com/a16z/halmos)
+* [Certora](https://docs.certora.com/en/latest/)
+* [Mythril](https://github.com/ConsenSys/mythril)
+* [Kontrol](https://docs.runtimeverification.com/kontrol/overview/readme)
+* [hevm](https://github.com/ethereum/hevm) 
+
 ## Static analysis Tools and More!
 * [Oyente](https://lnkd.in/dqZP3V3w)
-* [Mythril](https://lnkd.in/dAjsXcWj)
 * [Osiris](https://lnkd.in/dYFtk6SZ)
 * [Maian](https://lnkd.in/dkkbub3H)
 * [TeEther](https://lnkd.in/dWD_ZGMa)

@@ -176,6 +176,7 @@
 * [Checklist for Signature verification](https://twitter.com/TheSchnlich/status/1693747190458433881)
 * [Signature Replay attacks](https://www.youtube.com/watch?v=jq1b-ZDRVDc)
 * Improper verification of signatures [SWC-121](https://swcregistry.io/docs/SWC-121/) and [SWC-117](https://swcregistry.io/docs/SWC-117/)
+* [Loss of Precision vulnerabilities](https://www.youtube.com/watch?v=Ild-N0ADrkI)
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

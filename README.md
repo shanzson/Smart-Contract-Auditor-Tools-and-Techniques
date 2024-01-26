@@ -197,6 +197,7 @@
 * [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
 * [Zk learning with 0xparc](https://learn.0xparc.org/)
 * [Zk learning resources by Shanzson :)](https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources/blob/main/README.md)
+* [Zk audit playbook by Zellic](https://twitter.com/zellic_io/status/1750638776215621971)
 
 ## Free smart contract security-related resources
 * [Ethereum Yellow paper course](https://youtu.be/e84V1MxRlYs)

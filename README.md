@@ -20,10 +20,8 @@
 * [Day-2 Full](https://youtu.be/umV-wcKlpjg)
 * [Defi-Security-Summit Channel](https://www.youtube.com/channel/UCmWdqeY9Dmcz9692nU6LjLQ)
 
-## Stanford Defi Security Summit 2023
-* [Day-0 Full (DeFi Security 101)](https://www.youtube.com/watch?v%253Dv9ANh5wmj_A)
-* [Day-1 Full](https://www.youtube.com/watch?v%253DQhY9T-6QMlU)
-* [Day-2 Full](https://www.youtube.com/watch?v%253DvCfeff4nu-g)
+## Paris Defi Security Summit 2023
+* [DeFi Security Summit 2023](https://www.youtube.com/watch?v=e_fWv7P6N3s&list=PL5r4vTR0gHj5JL62S9R0umY64ue6mfQhd)
 
 ## Miscellaneous Tools
 * [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)

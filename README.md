@@ -4,6 +4,7 @@
 ## How to become a Smart Contract Auditor
 * [How to become Smart Contract Auditor and Bounty Hunter by Officer CIA](https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k)
 * [Auditor's Roadmap by RazzorSec](https://github.com/razzorsec/AuditorsRoadmap)
+* [Cyfrin Updraft - Smart Contract Security and Auditing Course](https://updraft.cyfrin.io/courses/security)
 
 ## Transaction Visualization tools for hacks
 * [MistTrack](https://misttrack.io/)
@@ -24,6 +25,7 @@
 * [DeFi Security Summit 2023](https://www.youtube.com/watch?v=e_fWv7P6N3s&list=PL5r4vTR0gHj5JL62S9R0umY64ue6mfQhd)
 
 ## Miscellaneous Tools
+* [Cyfrin Solodit - Smart contract security research](https://solodit.xyz)
 * [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 * [Tool for Storage visualization of Proxy contracts & to check storage collision](https://github.com/naddison36/sol2uml)
 * [Uniswap TWAP Oracle Price Manipulation Simulator](https://www.euler.finance/blog/oracle-attack-simulator)
@@ -113,6 +115,7 @@
 * [hevm](https://github.com/ethereum/hevm) 
 
 ## Static analysis Tools and More!
+* [Cyfrin Aderyn](https://cyfrin.io/tools/aderyn)
 * [Oyente](https://lnkd.in/dqZP3V3w)
 * [Osiris](https://lnkd.in/dYFtk6SZ)
 * [Maian](https://lnkd.in/dkkbub3H)
@@ -182,7 +185,7 @@
 * [The Auditor book- Sherlock and Code4rena findings](https://theauditorbook.com/)
 * [Search Code4rena and Sherlock findings](https://audit-hero.com/search-findings)
 * [Immunefi Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
-* [Solodit search with filters](https://solodit.xyz/)
+* [Cyfrin Solodit search with filters](https://solodit.xyz/)
 * [All Audit reports of Security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [List of Bridge hacks](https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d)
 

@@ -53,6 +53,7 @@
 * [Running slither and other tools on cloud](https://www.youtube.com/watch?v=bgv0rVPgjzY)
 * [samczsun's tool to get function signature from abi.encoded data](https://twitter.com/samczsun/status/1625063659981647875?t=K9E_WZzY5mMao8BaQYFqcw&s=19)
 * [Visualize EVM storage (finally!)](https://evm.storage/)
+* [Tool to query Solidity Smart contracts](https://glide.r.xyz/)
 
 ## On-Chain Monitoring tools for attacks (Refer [Pessimistic-blog](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a))
 * [Forta](https://forta.org/)

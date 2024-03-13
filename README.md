@@ -71,6 +71,8 @@
 * [Cyvers.ai](https://cyvers.ai/)
 * [Hexagate](https://www.hexagate.com/)
 * [Peckshield's KillSwitch](https://twitter.com/peckshield/status/1571819575901319168)
+* [Zokyo's Mamoru.ai](
+https://www.mamoru.ai/)
 
 ## On-chain Simulators for user-Side Defense
 * [Fire](https://twitter.com/_joinfire?t=zSw5GORhMsd-siI3U4Z3wQ&s=09)

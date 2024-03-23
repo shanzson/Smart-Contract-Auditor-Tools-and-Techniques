@@ -85,6 +85,7 @@ https://www.mamoru.ai/)
 * [Blowfish](https://twitter.com/blowfishxyz?t=xrj759mZ1OMgV1WZveXf2w&s=09)
 * [Hexagate](https://twitter.com/hexagate_?t=7cFCpc-kLdVNBDbltNh4uw&s=09)
 * [Rabby.io- Alternative to metamask](https://rabby.io/)
+* [Web3 Antivirus](https://web3antivirus.io/)
 
 ## OffcierCIA On-chain Investigation Tools
 * [Ethtective](https://ethtective.com/)

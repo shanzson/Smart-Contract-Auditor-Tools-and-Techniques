@@ -180,6 +180,7 @@ https://www.mamoru.ai/)
 * [Signature Replay attacks](https://www.youtube.com/watch?v=jq1b-ZDRVDc)
 * Improper verification of signatures [SWC-121](https://swcregistry.io/docs/SWC-121/) and [SWC-117](https://swcregistry.io/docs/SWC-117/)
 * [Loss of Precision vulnerabilities](https://www.youtube.com/watch?v=Ild-N0ADrkI)
+* [EEA DeFi Risk Assessment Guidelines (1st Draft)](https://entethalliance.org/specs/drafts/defi-risks/20230116/)
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

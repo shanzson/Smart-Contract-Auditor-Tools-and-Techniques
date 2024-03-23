@@ -4,7 +4,6 @@
 ## How to become a Smart Contract Auditor
 * [How to become Smart Contract Auditor and Bounty Hunter by Officer CIA](https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k)
 * [Auditor's Roadmap by RazzorSec](https://github.com/razzorsec/AuditorsRoadmap)
-* [Cyfrin Updraft - Smart Contract Security and Auditing Course](https://updraft.cyfrin.io/courses/security)
 
 ## Transaction Visualization tools for hacks
 * [MistTrack](https://misttrack.io/)
@@ -118,7 +117,6 @@ https://www.mamoru.ai/)
 * [hevm](https://github.com/ethereum/hevm) 
 
 ## Static analysis Tools and More!
-* [Cyfrin Aderyn](https://cyfrin.io/tools/aderyn)
 * [Oyente](https://lnkd.in/dqZP3V3w)
 * [Osiris](https://lnkd.in/dYFtk6SZ)
 * [Maian](https://lnkd.in/dkkbub3H)
@@ -138,6 +136,7 @@ https://www.mamoru.ai/)
 * [SmartPulse](https://lnkd.in/dmwEEPTY)
 * [Semgrep](https://github.com/Decurity/semgrep-smart-contracts)
 * [C4udit](https://github.com/byterocket/c4udit)
+* [Cyfrin Aderyn](https://cyfrin.io/tools/aderyn)
 
 ## Smart contract Security Techniques and Best practices (Refer [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/README.md) ) 
 * [Mastering Ethereum - Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
@@ -209,7 +208,7 @@ https://www.mamoru.ai/)
 * [Stanford Cryptography course](https://www.coursera.org/learn/crypto)
 * [Mastering Solidity Assembly (YUL)](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
 * [All about assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
-* [Cyfrin's auditing course](https://updraft.cyfrin.io/courses/security)
+* [Cyfrin Updraft - Smart Contract Security and Auditing Course](https://updraft.cyfrin.io/courses/security)
 
 ## Privacy Tools
 * [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)

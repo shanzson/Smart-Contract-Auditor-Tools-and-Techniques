@@ -55,7 +55,7 @@
 * [samczsun's tool to get function signature from abi.encoded data](https://twitter.com/samczsun/status/1625063659981647875?t=K9E_WZzY5mMao8BaQYFqcw&s=19)
 * [Visualize EVM storage (finally!)](https://evm.storage/)
 * [Tool to query Solidity Smart contracts](https://glide.r.xyz/)
-* [WeAudit Vscode extension by ToB to make Bookmarks and Notes during Audit](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
+* [WeAudit Vscode extension by ToB to make Notes during Audit](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 
 ## On-Chain Monitoring tools for attacks (Refer [Pessimistic-blog](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a))
 * [Forta](https://forta.org/)

@@ -213,6 +213,11 @@ https://www.mamoru.ai/)
 * [All about assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 * [Cyfrin Updraft - Smart Contract Security and Auditing Course](https://updraft.cyfrin.io/courses/security)
 
+## What to do when Hacked?
+* [Seal 911 Bot by Whitehats to Rescue You when Hacked](https://t.me/seal_911_bot)
+* [Incident Response Guidelines by ToB](https://secure-contracts.com/development-guidelines/incident_response.html)
+* [Crisis Handbook- Smart contracts Hack](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.c4h2beeflqpo)
+
 ## Privacy Tools
 * [Tool for Private RPC](https://twitter.com/emilianobonassi/status/1596169493893771265)
 * [Hopr protocol](https://hoprnet.org/protocol)
@@ -225,11 +230,6 @@ https://www.mamoru.ai/)
 ## PoCs
 * [Coinspect EVM attacks](https://github.com/coinspect/learn-evm-attacks)
 * [Defi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs)
-
-## What to do when Hacked?
-* [Seal 911 Bot by Whitehats to Rescue You when Hacked](https://t.me/seal_911_bot)
-* [Incident Response Guidelines by ToB](https://secure-contracts.com/development-guidelines/incident_response.html)
-* [Crisis Handbook- Smart contracts Hack](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.c4h2beeflqpo)
 
 ## Miscellaneous
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)

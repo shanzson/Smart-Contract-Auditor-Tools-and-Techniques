@@ -226,11 +226,15 @@ https://www.mamoru.ai/)
 * [Coinspect EVM attacks](https://github.com/coinspect/learn-evm-attacks)
 * [Defi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
+## What to do when Hacked?
+* [Seal 911 Bot by Whitehats to Rescue You when Hacked](https://t.me/seal_911_bot)
+* [Incident Response Guidelines by ToB](https://secure-contracts.com/development-guidelines/incident_response.html)
+* [Crisis Handbook- Smart contracts Hack](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.c4h2beeflqpo)
+
 ## Miscellaneous
 * [List of all Blockchain security companies](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [Upgrading Ethereum Eth2Book](https://eth2book.info/bellatrix/)
 * [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 * [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)
 * [Formal verification Speedrun with Halmos, Kontrol and Certora](https://youtu.be/pjwYr97Q-Ok?si=2uGujm-p4be8mcdN)
-* [Seal 911 Bot by Whitehats to Rescue You when Hacked](https://t.me/seal_911_bot)
 * [Ethereum Cypherphunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)

@@ -1,4 +1,4 @@
-
+![image](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques/assets/63099646/18e9e342-8e23-436b-9bd3-4f04479f2b5f)
 # Smart Contract Auditor Tools and Techniques
 
 ## How to become a Smart Contract Auditor
@@ -184,6 +184,7 @@ https://www.mamoru.ai/)
 * Improper verification of signatures [SWC-121](https://swcregistry.io/docs/SWC-121/) and [SWC-117](https://swcregistry.io/docs/SWC-117/)
 * [Loss of Precision vulnerabilities](https://www.youtube.com/watch?v=Ild-N0ADrkI)
 * [EEA DeFi Risk Assessment Guidelines (1st Draft)](https://entethalliance.org/specs/drafts/defi-risks/20230116/)
+* [Blog on AI in Crypto & Smart Contract security](https://medium.com/zokyo-io/ai-in-crypto-smart-contract-security-1af9ed03cb07)
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

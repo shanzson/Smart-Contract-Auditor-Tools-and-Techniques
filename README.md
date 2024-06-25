@@ -1,4 +1,3 @@
-![image](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques/assets/63099646/18e9e342-8e23-436b-9bd3-4f04479f2b5f)
 # Smart Contract Auditor Tools and Techniques
 
 ## How to become a Smart Contract Auditor

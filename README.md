@@ -13,6 +13,7 @@
 * [Cruise Supremacy](https://cruise.supremacy.team)
 * [Cross-chain transaction tracker](https://socketscan.io/)
 * [Front-running explorer](https://zeromev.org/)
+* [Awesome On-chain Investigation](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/tree/main)
 
 ## Stanford Defi Security Summit 2022
 * [Day-1 Full](https://youtu.be/EdH7UaJec3g)

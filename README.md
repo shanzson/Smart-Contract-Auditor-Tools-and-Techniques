@@ -185,14 +185,16 @@ https://www.mamoru.ai/)
 * [Loss of Precision vulnerabilities](https://www.youtube.com/watch?v=Ild-N0ADrkI)
 * [EEA DeFi Risk Assessment Guidelines (1st Draft)](https://entethalliance.org/specs/drafts/defi-risks/20230116/)
 * [Blog on AI in Crypto & Smart Contract security](https://medium.com/zokyo-io/ai-in-crypto-smart-contract-security-1af9ed03cb07)
-* 
+  
 
 ## Defi Focused Security Resources
+* [Zokyo Auditing Tutorial for Medium to High Findings](https://zokyo-auditing-tutorials.gitbook.io/zokyo-tutorials)
 * [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
 * [Defi Slippage attacks](https://dacian.me/defi-slippage-attacks)
 * [Price Oracle Best practices](https://samczsun.com/so-you-want-to-use-a-price-oracle/)
 * [Securely using Chainlink to price Curve LP Pools](https://blog.chain.link/using-chainlink-oracles-to-securely-utilize-curve-lp-pools/)
 * [Chainlink oracle attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf)
+
 
 ## Audit reports and findings
 * [Code4rena Audit reports](https://code4rena.com/reports)

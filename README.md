@@ -102,10 +102,11 @@ https://www.mamoru.ai/)
 * [Revoke.cash](https://revoke.cash/)
 * [Tutela](https://tutela.xyz/)
 
-## Echidna Fuzzing resources
+## Fuzzing resources
+* [EVM Fuzzing resources](https://github.com/perimetersec/evm-fuzzing-resources)
 * [Why Echidna is the best smart contract fuzzer](https://youtu.be/RrdrfdtWnSo)
-* [Breaking solidity compiler with Fuzzing](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
-* [More on fuzzing using Echidna](https://blog.pessimistic.io/fuzzing-solidity-smart-contracts-with-echidna-die-hard-level-tips-9ab7033fa893?123)
+* [Breaking solidity compiler with Fuzzing - by Trail of Bits](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
+* [More on fuzzing using Echidna - by Pessimistic](https://blog.pessimistic.io/fuzzing-solidity-smart-contracts-with-echidna-die-hard-level-tips-9ab7033fa893?123)
 * [ToB setting up fuzzing for clients](https://twitter.com/transmissions11/status/1487586670153060352)
 * [ToB livestream on fuzzing using Echidna](https://blog.trailofbits.com/2022/11/14/livestream-workshop-fuzzing-echidna-slither/)
 * [Hybrid Fuzzing](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)

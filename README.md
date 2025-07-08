@@ -23,6 +23,11 @@
 ## Paris Defi Security Summit 2023
 * [DeFi Security Summit 2023](https://www.youtube.com/watch?v=e_fWv7P6N3s&list=PL5r4vTR0gHj5JL62S9R0umY64ue6mfQhd)
 
+## Bangkok Defi Security Summit 2024
+* [Day-1 Full](https://www.youtube.com/watch?v=tWojwCCHg1E&list=PL5r4vTR0gHj6u8Hn71bYIgu9T_qJLbkNG)
+* [Day-2 Full](https://www.youtube.com/watch?v=eUbqrSpu3ps&list=PL5r4vTR0gHj4tfB3LoDCkBIXDITlyC2o7)
+* [Day-3 Fulll](https://www.youtube.com/watch?v=XcpjY0fg1Tk&list=PL5r4vTR0gHj5swo6_ix2m8faA4OCIg7K1)
+
 ## Miscellaneous Tools
 * [Cyfrin Solodit - Smart contract security research](https://solodit.xyz)
 * [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)

@@ -124,6 +124,8 @@ https://www.mamoru.ai/)
 * [ToB livestream on fuzzing using Echidna](https://blog.trailofbits.com/2022/11/14/livestream-workshop-fuzzing-echidna-slither/)
 * [Hybrid Fuzzing](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
 * [Intro to advanced, with tips & FAQs](https://secure-contracts.com/program-analysis/echidna/index.html)
+* [Trident – Solana smart contract fuzzing framework](https://github.com/Ackee-Blockchain/trident)— First and only full fuzzing framework for Solana programs. Provides property-based tests, differential fuzzing, coverage-guided fuzzing, and harness-based testing with LiteSVM integration.
+
 
 ## Symbolic Execution / Formal Verification Tools
 * [Halmos](https://github.com/a16z/halmos)

@@ -1,6 +1,7 @@
 # Smart Contract Auditor Tools and Techniques
 
-## How to become a Smart Contract Auditor
+##
+* [HostDeFi Token Safety Scanner](https://hostdefi.com/scan) — free keyless token-risk scanner (A+–F grades from on-chain signals) covering Solana + 7 EVM chains, with a REST API for automated pre-interaction checks. How to become a Smart Contract Auditor
 * [How to become Smart Contract Auditor and Bounty Hunter by Officer CIA](https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k)
 * [Auditor's Roadmap by RazzorSec](https://github.com/razzorsec/AuditorsRoadmap)
 

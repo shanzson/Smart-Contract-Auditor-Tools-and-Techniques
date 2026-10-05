@@ -133,6 +133,7 @@ https://www.mamoru.ai/)
 * [hevm](https://github.com/ethereum/hevm) 
 
 ## Static analysis Tools and More!
+* [Smart Contract Security Auditor](https://coinorama.net/tools/smart-contract-auditor)
 * [Oyente](https://lnkd.in/dqZP3V3w)
 * [Osiris](https://lnkd.in/dYFtk6SZ)
 * [Maian](https://lnkd.in/dkkbub3H)

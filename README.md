@@ -35,6 +35,7 @@
 * [Damn Vulnerable AI Platform for Agentic Security](https://github.com/sonuoffsec/DVAP)
 * [LLM security for AI agents](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY)
 * [Awesome LLM Security - by Corca AI](https://github.com/corca-ai/awesome-llm-security)
+* [One Dollar Audit - AI smart contract audit report for $1, paid on Base](https://onedollaraudit.com)
 
 ## Miscellaneous Tools
 * [Cyfrin Solodit - Smart contract security research](https://solodit.xyz)

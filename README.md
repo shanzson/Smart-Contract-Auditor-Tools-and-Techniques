@@ -35,6 +35,8 @@
 * [Damn Vulnerable AI Platform for Agentic Security](https://github.com/sonuoffsec/DVAP)
 * [LLM security for AI agents](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY)
 * [Awesome LLM Security - by Corca AI](https://github.com/corca-ai/awesome-llm-security)
+* [priorart - checks a finding against prior audits, known issues and scope before submission (skill + MCP server)](https://github.com/KhomDev/priorart)
+* [realism-gate - checks exploit PoCs and a finding's claims before submission (skill + MCP server)](https://github.com/KhomDev/realism-gate)
 
 ## Miscellaneous Tools
 * [Cyfrin Solodit - Smart contract security research](https://solodit.xyz)
